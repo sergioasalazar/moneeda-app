@@ -2,8 +2,7 @@
   "name": "moneeda-app",
   "version": "0.0.0",
   "author": {
-    "name": "Sergio Salazar",
-    "email": "sergio.alejandro.salazar@gmail.com"
+    "name": "Sergio Salazar"
   },
   "private": true,
   "scripts": {
