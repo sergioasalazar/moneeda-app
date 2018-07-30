@@ -2,8 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "author": {
-    "name": "Sergio Salazar",
-    "email": "sergio.alejandro.salazar@gmail.com"
+    "name": "Sergio Salazar"
   },
   "private": true,
   "dependencies": {
