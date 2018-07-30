@@ -1,6 +1,10 @@
 {
   "name": "moneeda-app",
   "version": "0.0.0",
+  "author": {
+    "name": "Sergio Salazar",
+    "email": "sergio.alejandro.salazar@gmail.com"
+  },
   "private": true,
   "scripts": {
     "postinstall": "cd client && npm i",
